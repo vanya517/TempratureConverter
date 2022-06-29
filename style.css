@@ -1,0 +1,36 @@
+body
+{
+   padding: 50px 100px;
+   background-image: linear-gradient(to right, rgb(8, 36, 61) , rgb(127, 126, 192),rgb(62, 60, 168));
+   position: sticky;
+}
+
+h1
+{
+    text-align: center; 
+}
+
+#container{
+   text-align: center;
+   background-image: linear-gradient(to right, rgb(131, 25, 131), rgb(211, 211, 42));
+    padding: 50px;
+  
+}
+
+.input-div{
+    display: inline-block
+}
+
+.inp{
+    padding: 1px 10px; 
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    width: 200px;
+    text-align: center;
+}
+
+label{
+    font-size: 20px;
+    
+}
